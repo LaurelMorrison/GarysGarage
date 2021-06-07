@@ -16,5 +16,15 @@ namespace Garage
             base.Drive();
             Console.WriteLine("Zoooooom!");
         }
+
+        public override void Stop()
+        {
+            Console.WriteLine($"The {MainColor} vehicle slams on it's brakes.");
+        }
+
+        public override void Turn()
+        {
+            Console.WriteLine($"The {MainColor} vehicle U-turns twice.");
+        }
     }
 }

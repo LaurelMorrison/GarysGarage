@@ -9,16 +9,16 @@ namespace Garage
 
         public virtual void Drive()
         {
-            Console.WriteLine($"My car color is {MainColor}!");
+            Console.WriteLine($"My vehicle color is {MainColor}!");
         }
 
         public virtual void Turn()
         {
-            Console.WriteLine($"The {MainColor} takes a sharp right turn.");
+            Console.WriteLine($"The {MainColor} vehicle takes a sharp right turn.");
         }
         public virtual void Stop()
         {
-            Console.WriteLine($"The {MainColor} comes to a gentle stop.");
+            Console.WriteLine($"The {MainColor} vehicle comes to a gentle stop.");
         }
     }
 }
