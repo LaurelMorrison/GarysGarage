@@ -1,0 +1,16 @@
+C:\Users\Laurel\workspace\Garage\obj\Debug\net5.0\Garage.csprojAssemblyReference.cache
+C:\Users\Laurel\workspace\Garage\obj\Debug\net5.0\Garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laurel\workspace\Garage\obj\Debug\net5.0\Garage.AssemblyInfoInputs.cache
+C:\Users\Laurel\workspace\Garage\obj\Debug\net5.0\Garage.AssemblyInfo.cs
+C:\Users\Laurel\workspace\Garage\obj\Debug\net5.0\Garage.csproj.CoreCompileInputs.cache
+C:\Users\Laurel\workspace\Garage\bin\Debug\net5.0\Garage.exe
+C:\Users\Laurel\workspace\Garage\bin\Debug\net5.0\Garage.deps.json
+C:\Users\Laurel\workspace\Garage\bin\Debug\net5.0\Garage.runtimeconfig.json
+C:\Users\Laurel\workspace\Garage\bin\Debug\net5.0\Garage.runtimeconfig.dev.json
+C:\Users\Laurel\workspace\Garage\bin\Debug\net5.0\Garage.dll
+C:\Users\Laurel\workspace\Garage\bin\Debug\net5.0\ref\Garage.dll
+C:\Users\Laurel\workspace\Garage\bin\Debug\net5.0\Garage.pdb
+C:\Users\Laurel\workspace\Garage\obj\Debug\net5.0\Garage.dll
+C:\Users\Laurel\workspace\Garage\obj\Debug\net5.0\ref\Garage.dll
+C:\Users\Laurel\workspace\Garage\obj\Debug\net5.0\Garage.pdb
+C:\Users\Laurel\workspace\Garage\obj\Debug\net5.0\Garage.genruntimeconfig.cache
